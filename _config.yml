@@ -1,7 +1,11 @@
 # Site settings
 title: "Oksana Kozitska"
 description: "Online CV. Traduttrice, interprete e consulente russo, ucraino e italiano. Traduzioni e consulenza export-import Russia e Ucraina"
-url: oksanakozitska.it
+url: http://www.oksanakozitska.it
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 google_site_verification: P6KzQ6pf5GqsNiJRWBHC2VsdSZnEPsBmIjT45IsWmnE
 
@@ -65,6 +69,3 @@ resume_theme:                   default
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
