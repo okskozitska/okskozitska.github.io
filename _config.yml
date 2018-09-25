@@ -1,7 +1,8 @@
 # Site settings
 title: "Oksana Kozitska"
 description: "Online CV. Traduttrice, interprete e consulente russo, ucraino e italiano. Traduzioni e consulenza export-import Russia e Ucraina"
-url: http://www.oksanakozitska.it
+url: https://www.oksanakozitska.it
+enforce_ssl: oksanakozitska.it
 
 plugins:
   - jekyll-seo-tag
