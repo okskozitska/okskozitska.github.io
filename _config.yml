@@ -67,3 +67,4 @@ resume_theme:                   default
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
