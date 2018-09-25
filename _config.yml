@@ -1,6 +1,9 @@
 # Site settings
 title: "Oksana Kozitska"
-description: "My Online CV"
+description: "Online CV. Traduttrice, interprete e consulente russo, ucraino e italiano. Traduzioni e consulenza export-import Russia e Ucraina"
+url: oksanakozitska.it
+
+google_site_verification:P6KzQ6pf5GqsNiJRWBHC2VsdSZnEPsBmIjT45IsWmnE
 
 # Build settings
 markdown: kramdown
